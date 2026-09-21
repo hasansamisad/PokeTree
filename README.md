@@ -119,9 +119,14 @@ for providing the Pokémon images, based on
 
 
 Integrantes:
+
 Artur Nunes Duarte - https://github.com/ArturNunes-cmd
+
 Hasan Sami Sad - https://github.com/hasansamisad
+
 Isaque Costa Rodrigues -
+
 Pietro Cardia Cordeiro - https://github.com/PietroCardia
+
 Rafael Rodrigues Lins - https://github.com/R4f43lXD0102
 
