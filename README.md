@@ -118,7 +118,8 @@ for providing the Pokémon images, based on
 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page).
 
 
-Integrantes:
+
+## Integrantes:
 
 Artur Nunes Duarte - https://github.com/ArturNunes-cmd
 
