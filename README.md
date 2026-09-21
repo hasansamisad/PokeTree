@@ -116,3 +116,12 @@ Both versions were made as teaching aids for the MIT class
 Thanks to [HybridShivam/Pokemon](https://github.com/HybridShivam/Pokemon/)
 for providing the Pokémon images, based on
 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page).
+
+
+Integrantes:
+Artur Nunes Duarte - https://github.com/ArturNunes-cmd
+Hasan Sami Sad - https://github.com/hasansamisad
+Isaque Costa Rodrigues -
+Pietro Cardia Cordeiro - https://github.com/PietroCardia
+Rafael Rodrigues Lins - https://github.com/R4f43lXD0102
+
