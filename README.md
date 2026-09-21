@@ -125,7 +125,7 @@ Artur Nunes Duarte - https://github.com/ArturNunes-cmd
 
 Hasan Sami Sad - https://github.com/hasansamisad
 
-Isaque Costa Rodrigues -
+Isaque Costa Rodrigues - https://github.com/IsaqueCR4
 
 Pietro Cardia Cordeiro - https://github.com/PietroCardia
 
